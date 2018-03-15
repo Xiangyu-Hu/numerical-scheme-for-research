@@ -1,0 +1,12 @@
+*case_numbers
+1		3
+*resolution_in_x_direction
+200
+*restart_file
+0
+*checking_points
+10		1000
+*interpolation_method
+4
+*flux_method
+3
